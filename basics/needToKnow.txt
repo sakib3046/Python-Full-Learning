@@ -1,0 +1,1 @@
+list,string,tuple Slicing: <list/string/tuple> [ <starting index> : <ending index.But it's not included> ]
